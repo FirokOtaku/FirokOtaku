@@ -71,11 +71,6 @@
         Fira Code, JetBrains Mono
     </td>
 </tr>
-<tr>
-    <td colspan="4" style="text-align: right">
-        <i>Respect is one of the prerequisites for communication.</i>
-    </td>
-</tr>
 </table>
 
 [![Firok's GitHub stats](https://github-readme-stats.vercel.app/api?username=351768593&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
