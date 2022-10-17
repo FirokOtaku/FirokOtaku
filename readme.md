@@ -73,6 +73,6 @@
 </tr>
 </table>
 
-[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api?username=351768593&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirokOtaku&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=351768593&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirokOtaku&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
