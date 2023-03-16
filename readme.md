@@ -57,7 +57,7 @@
         <b>Desktop</b>
     </td>
     <td>
-        Electron, Swing, WinForm
+        Electron, Swing, JavaFX, WinForm
     </td>
     <td colspan="2"></td>
 </tr>
@@ -68,11 +68,24 @@
 </tr>
 <tr>
     <td colspan="4">
-        Fira Code, JetBrains Mono
+        Fira Code, JetBrains Mono, Monocraft, GNU Unifont
+    </td>
+</tr>
+<tr>
+    <td colspan="4">
+        <i><u>Others</u></i>
+    </td>
+</tr>
+<tr>
+    <td colspan="4">
+        <a href="https://github.com/FirokOtaku/FirokOtaku/blob/main/project-summary-list.md">项目总结清单</a>
+    </td>
+</tr>
+<tr>
+    <td colspan="4">
+        <!-- https://github.com/anuraghazra/github-readme-stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=FirokOtaku&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" alt="Firok's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirokOtaku&layout=compact&hide=css" alt="Firok's most used languages">
     </td>
 </tr>
 </table>
-
-[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirokOtaku&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Firok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirokOtaku&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
