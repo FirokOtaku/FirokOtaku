@@ -1,6 +1,7 @@
 # 项目总结清单
 
-下面列出了一部分目前开过的 ~~坑~~ 项目, 及其分别对什么技术做出了验证或应用
+下面列出了一部分参与过相对重要或完成度较高的 ~~坑~~ 项目,
+及其分别对什么技术做出了验证或应用
 
 标注解释:
 
@@ -9,6 +10,10 @@
 
 项目列表:
 
+* `internal` ~~隐藏名称~~ (Vue2, Vue3) 2022 ~ 2023
+  * SVG 和 Vue 的交互
+  * Mars3D 库
+  * Mars3D 和 Vue 的交互
 * [Miner Banner](https://github.com/FirokOtaku/MinerBanner) (Javascript) 2023-03-15..
   * SVG 技术
   * serverless 概念
@@ -38,6 +43,9 @@
   * --
 * [Tin Wrench](https://github.com/FirokOtaku/TinWrench) (JavaFx) 2022-12..
   * JavaFX 技术
+* `internal` ~~隐藏名称~~ (Python) 2022 ~ 2023
+  * 机器图像识别相关技术
+  * MMDetection 框架
 * `private` [DreamSpeak](https://github.com/FirokOtaku/DreamSpeak) (SpringBoot)
   * SSR 概念
 * [Auto Hot key Scripts](https://github.com/FirokOtaku/AutoHotKeyScripts) (AutoHotKey)
@@ -53,6 +61,8 @@
   * OneNET 服务
   * JavaFX 技术
   * ~~Kotlin 语言~~
+* `private` ~~隐藏名称~~ (Java) 2021..
+  * 基于 GPU 的并行运算加速
 * `internal` ~~隐藏名称~~ (Java) 2020 ~ ..
   * Hibernate 库
   * Vue2 库
@@ -78,4 +88,7 @@
   * Vue 库
   * ECharts 库
 * `private` Magic Tower Engine Ⅰ, Ⅱ, Ⅲ (Java) 2016 ~ 2019
-  * ~~梦开始的地方~~
+  * **_梦开始的地方_**
+
+_all roads lead to Rome,_
+_all dreams raise from Irisia._
