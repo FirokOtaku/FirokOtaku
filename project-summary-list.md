@@ -5,11 +5,16 @@
 
 标注解释:
 
+* `demo` 表示这个项目为纯 demo
 * `private` 表示这个项目为闭源或尚未公开项目
 * `internal` 表示这个项目为公司内部项目
 
 项目列表:
 
+* [Darmstadtium Gear](https://github.com/FirokOtaku/DarmstadtiumGear) (Vue3, Electron) 2023-04..
+  * uTools 插件开发
+* `demo` ~~无名称~~ (Java, Javascript) 2023-03 ~ ..
+  * HTTP Server-Send-Event 概念
 * `internal` ~~隐藏名称~~ (Vue2, Vue3) 2022 ~ 2023
   * SVG 和 Vue 的交互
   * Mars3D 库
