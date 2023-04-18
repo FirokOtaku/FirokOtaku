@@ -11,6 +11,8 @@
 
 项目列表:
 
+* `demo` ~~无名称~~ (Java) 2023-04..
+  * Manifold 库
 * [Darmstadtium Gear](https://github.com/FirokOtaku/DarmstadtiumGear) (Vue3, Electron) 2023-04..
   * uTools 插件开发
 * `demo` ~~无名称~~ (Java, Javascript) 2023-03 ~ ..
