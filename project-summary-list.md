@@ -11,6 +11,14 @@
 
 项目列表:
 
+* [Arc Project](https://arc.firok.space) (Nuxt.js 3 + Vue 3) 2023-06
+  * Vercel Pages 服务
+  * Vercel Serverless Functions 服务
+  * Vercel Postgres 服务
+  * Nuxt.js 3 库
+* [Astatine Gear](https://github.com/FirokOtaku/astatine-gear) (Web) 2023-05
+  * Cloudflare Pages 服务
+  * GitHub Actions
 * `demo` ~~无名称~~ (Java) 2023-04..
   * Manifold 库
 * [Darmstadtium Gear](https://github.com/FirokOtaku/DarmstadtiumGear) (Vue3, Electron) 2023-04..
