@@ -14,7 +14,7 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">
-        <a href="https://firok.space/" target="_blank">Personal Website</a>,
+        <a href="https://arc.firok.space/" target="_blank">Personal Website</a>,
         <a href="https://steamcommunity.com/id/s2lab_firok" target="_blank">Steam Page</a>,
         <a href="mailto:firok@qq.com">Email</a>
     </td>
@@ -68,7 +68,7 @@
 </tr>
 <tr>
     <td colspan="4">
-        Fira Code, JetBrains Mono, Monocraft, GNU Unifont
+        汉仪文黑, Fira Code, JetBrains Mono, Monocraft, GNU Unifont
     </td>
 </tr>
 <tr>
