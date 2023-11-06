@@ -79,6 +79,8 @@
 <tr>
     <td colspan="4">
         <a href="https://github.com/FirokOtaku/FirokOtaku/blob/main/project-summary-list.md">项目总结清单</a>
+        <a href="https://miner-banner.firok.space/">Miner Banner</a>
+        <a href="https://astatine-gear.firok.space/">Astatine Gear</a>
     </td>
 </tr>
 <tr>

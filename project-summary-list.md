@@ -11,6 +11,8 @@
 
 项目列表:
 
+* `internal` ~~隐藏名称~~ (Python) 2023-08 ~ ..
+  * Image Anomaly Detection 概念
 * [Arc Project](https://arc.firok.space) (Nuxt.js 3 + Vue 3) 2023-06
   * Vercel Pages 服务
   * Vercel Serverless Functions 服务
