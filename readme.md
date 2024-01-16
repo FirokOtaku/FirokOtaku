@@ -7,9 +7,6 @@
 </tr>
 <tr>
   <td colspan="2">
-    <a href="https://arc.firok.space/" target="_blank">Personal Website</a>,
-    <a href="https://steamcommunity.com/id/s2lab_firok" target="_blank">Steam Page</a>,
-    <a href="mailto:firok@qq.com">Email</a>
   </td>
     <td colspan="2">
         <sup>Respect is one of the prerequisites for communication.</sup>
@@ -62,26 +59,26 @@
     <del>Arduino</del>
   </td></tr>
 <tr>
-  <td colspan="4">
+  <td>
     <i><u>Favorite fonts</u></i>
   </td>
-</tr>
-<tr>
-  <td colspan="4">
+  <td colspan="3">
     汉仪文黑, Fira Code, JetBrains Mono, Monocraft, GNU Unifont
   </td>
 </tr>
 <tr>
-  <td colspan="4">
-    <i><u>Others</u></i>
+  <td>
+    <u>Others</u>
   </td>
-</tr>
-<tr>
-    <td colspan="4">
-        <a href="https://github.com/FirokOtaku/FirokOtaku/blob/main/project-summary-list.md">项目总结清单</a>
-        <a href="https://miner-banner.firok.space/">Miner Banner</a>
-        <a href="https://astatine-gear.firok.space/">Astatine Gear</a>
-    </td>
+  <td colspan="3">
+    <a href="https://github.com/FirokOtaku/FirokOtaku/blob/main/project-summary-list.md">项目总结清单</a>,
+    <a href="https://miner-banner.firok.space/">Miner Banner</a>,
+    <a href="https://astatine-gear.firok.space/">Astatine Gear</a>,
+    <br>
+    <a href="https://arc.firok.space/" target="_blank">Personal Website</a>,
+    <a href="https://steamcommunity.com/id/s2lab_firok" target="_blank">Steam Page</a>,
+    <a href="mailto:firok@qq.com">Email</a>
+  </td>
 </tr>
 <tr>
   <td colspan="4">
