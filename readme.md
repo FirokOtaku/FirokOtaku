@@ -84,7 +84,7 @@
   <td colspan="4">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.firok.space/api?username=FirokOtaku&count_private=true&show_icons=true&theme=radical&bg_color=45,0f0c29,302b63,24243e&hide_rank=true" alt="Firok's GitHub stats">
-    <img src="https://github-readme-stats.firok.space/api/top-langs?username=FirokOtaku&layout=compact&hide=css,smalltalk&bg_color=45,ff00cc,333399&theme=chartreuse-dark" alt="Firok's most used languages">
+    <img src="https://github-readme-stats.firok.space/api/top-langs?username=FirokOtaku&layout=compact&hide=css,smalltalk&bg_color=45,5f2c82,49a09d,5f2c82&theme=chartreuse-dark" alt="Firok's most used languages">
   </td>
 </tr>
 </table>
