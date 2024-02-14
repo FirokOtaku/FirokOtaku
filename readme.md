@@ -28,7 +28,7 @@
     <b>Backend</b>
   </td>
   <td>
-    Java SSM, NestJS
+    Java SSM, NestJS, <del>Django</del>
   </td>
 </tr>
 <tr>
