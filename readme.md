@@ -22,7 +22,7 @@
     <b>Language</b>
   </td>
   <td>
-    <b>Java, <del>Groovy</del>, Javascript, <del>TypeScript</del>, <del>C#</del>, <del>Python</del></b>
+    <b>Java, <del>Groovy</del>, Javascript, Dart, <del>TypeScript</del>, <del>C#</del>, <del>Python</del></b>
   </td>
   <td>
     <b>Backend</b>
@@ -33,10 +33,10 @@
 </tr>
 <tr>
   <td>
-    <b>Desktop</b>
+    <b>UI</b>
   </td>
   <td>
-    Electron, Swing, JavaFX, WinForm
+    Electron, Swing, JavaFX, WinForm, <del>Flutter</del>
   </td>
   <td>
     <b>Frontend</b>
